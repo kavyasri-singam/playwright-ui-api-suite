@@ -1,9 +1,12 @@
 # 🎯 Fullstack UI + API Integration Test Suite using Playwright
-![Playwright](https://img.shields.io/badge/Playwright-v1.17.136-blue)
-![Node.js](https://img.shields.io/badge/Node.js-v18.12.1-green)
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-blue)
-![Tech](https://img.shields.io/badge/tech-Playwright%20%7C%20TypeScript%20%7C%20API_Testing-orange)
+
+ ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript)
+![Playwright](https://img.shields.io/npm/v/playwright.svg?logo=playwright)
+![Chromium](https://img.shields.io/badge/Chromium-137.0.7151.27-blue?logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-137.0-blue?logo=firefoxbrowser)
+![WebKit](https://img.shields.io/badge/WebKit-18.4-blue?logo=safari)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
 
 ## 📌 Project Summary
 
